@@ -19,6 +19,7 @@ if __name__ == '__main__':
     print_hi("Sister")
     print_hi("Love")
     print_hi("Umar Amir")
+    print_hi("love")
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 print("Hello World")
