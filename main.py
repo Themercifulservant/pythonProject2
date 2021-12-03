@@ -18,6 +18,7 @@ if __name__ == '__main__':
     print_hi('Shakil')
     print_hi("Sister")
     print_hi("Love")
+    print_hi("Umar Amir")
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 print("Hello World")
